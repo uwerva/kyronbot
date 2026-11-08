@@ -1,0 +1,30 @@
+{
+  "name": "kyron-v2",
+  "version": "2.0.0",
+  "description": "Kyron\u2122 V2 \u2014 a decoder-only Transformer language model built with Node.js and TensorFlow.js.",
+  "main": "kyron-v2.js",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/kyron-v2.git"
+  },
+  "author": "Kyron\u2122 V2 contributors",
+  "license": "MIT",
+  "scripts": {
+    "start": "node kyron-v2.js",
+    "train": "node kyron-v2.js train",
+    "serve": "node kyron-v2.js serve",
+    "chat": "node kyron-v2.js chat",
+    "eval": "node kyron-v2.js eval",
+    "verify": "node verify-runtime.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2"
+  },
+  "optionalDependencies": {
+    "@tensorflow/tfjs-node-gpu": "4.22.0"
+  },
+  "copyright": "Copyright (c) 2026 Kyron\u2122 V2 contributors. See NOTICE.md for upstream attribution."
+}

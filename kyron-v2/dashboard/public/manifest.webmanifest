@@ -1,0 +1,20 @@
+{
+  "name": "Kyron\u2122 V2 Dashboard",
+  "short_name": "Kyron V2",
+  "description": "Kyron\u2122 V2 model dashboard.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0c0d10",
+  "theme_color": "#0c0d10",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon/app.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "copyright": "Copyright (c) 2026 Kyron\u2122 V2 contributors."
+}
