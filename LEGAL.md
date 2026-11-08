@@ -1,6 +1,4 @@
-# LEGAL.mc
-
-# KYRON PROJECT — COPYRIGHT AND DMCA POLICY
+# LEGAL.md
 
 Document type: Project legal information
 Project: Kyron
