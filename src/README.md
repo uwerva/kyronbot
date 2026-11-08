@@ -269,10 +269,8 @@ checkpoint/
 
 ## Author & License
 
-* **Maintainer:** Kyron™ V2 contributors ([@tuzhicodes](https://github.com/tuzhicodes))
-* **License:** [MIT License](LICENSE)
-
-
+* **Maintained by:**  [@uerva](https://github.com/uwerva)
+* **License:**  [MIT License](LICENSE)
 ## Copyright and attribution
 
 Copyright © 2026 Kyron™ V2 contributors for the Kyron™ V2 changes and branding. This repository is a rebranded and modified derivative of ZarKos Mini v1. Original upstream copyright and MIT license notices are retained in `LICENSE` and `NOTICE.md`. Do not remove third-party notices.
