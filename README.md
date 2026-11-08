@@ -269,7 +269,7 @@ checkpoint/
 
 ## Author & License
 
-* **Maintainer:** Kyron™ V2 contributors ([@tuzhicodes](https://github.com/tuzhicodes))
+* **Maintainer:** Kyron™ V2 contributors ([@uerva](https://github.com/uwerva))
 * **License:** [MIT License](LICENSE)
 
 
