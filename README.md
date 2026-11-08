@@ -268,8 +268,8 @@ checkpoint/
 ---
 
 ## Author & License
-
-* **Maintained by:** [@uerva]([https://github.com/uwerva](https://github.com/uwerva/kyronbot))
+* **Maintained by:** [@uerva](https://github.com/uwerva)
+* **Repository:** [uwerva/kyronbot](https://github.com/uwerva/kyronbot)
 * **License:** [MIT License](LICENSE)
 ## Copyright and attribution
 
